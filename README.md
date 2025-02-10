@@ -126,7 +126,7 @@ PY_ENV=development
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,react,css,tailwind" /> <br>
+    <img src="https://skillicons.dev/icons?i=solidity,react,css,tailwind" /> <br>
     <img src="https://skillicons.dev/icons?i=github,vscode,neovim,figma,git,docker" />
   </a>
 </div>
