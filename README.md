@@ -1,5 +1,5 @@
 # PRAGMA 6.9
-
+This is my side project, unfinished
 
 ---
 
