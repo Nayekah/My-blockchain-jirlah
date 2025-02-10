@@ -1,5 +1,5 @@
 # PRAGMA 6.9
-This is my side project, unfinished
+tldr: This is my side project, unfinished, so it cant be runned
 
 ---
 
